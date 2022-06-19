@@ -1,0 +1,12 @@
+/* Contact */
+
+.contact a img{
+    width: 2.5rem;
+    margin-right: 0.75rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 65%;
+}
